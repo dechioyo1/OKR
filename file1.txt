@@ -1,7 +1,7 @@
 hello world
 bye bye
-one more line
-<<<<<<< HEAD
+
+
 provocing conflict
 =======
 smth
